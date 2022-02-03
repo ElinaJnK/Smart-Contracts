@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0 <0.6.0;
 
-import "./sha1.sol";
+import "./sha1.sol" ;
 
 contract idBody {
 
